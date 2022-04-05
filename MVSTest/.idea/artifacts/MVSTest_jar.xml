@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MVSTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVSTest_jar</output-path>
+    <root id="archive" name="MVSTest.jar">
+      <element id="module-output" name="MVSTest" />
+    </root>
+  </artifact>
+</component>
