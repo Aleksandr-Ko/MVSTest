@@ -14,5 +14,4 @@ public final class  Util {
             user.setName(user.getName() + DELETED_MARKER);
         }
     }
-
 }
