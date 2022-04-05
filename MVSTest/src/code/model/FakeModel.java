@@ -17,6 +17,7 @@ public class FakeModel implements Model{
         List<User> users = new ArrayList<>();
         users.add(new User("A", 1, 1));
         users.add(new User("B", 2, 2));
+        users.add(new User("C", 3, 3));
 
         modelData.setUsers(users);
             }
